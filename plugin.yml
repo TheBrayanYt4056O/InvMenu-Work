@@ -1,1 +1,6 @@
-
+...
+name: Reedem
+version: 1.0.0
+main: TB\Reedem\Reedem
+api: 4.7.1
+...
